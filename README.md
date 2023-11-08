@@ -29,13 +29,13 @@ The objective of the game is to progress by jumping across platforms and avoidin
 
 ## Character Designs
 ### Hero
-<img src='https://github.com/osmantunahanincirkus/2D_platform_game/blob/master/Tasar%C4%B1mlar/adventurer_stand.png'>
+<img src='https://github.com/osmantunahanincirkus/2D_platform_game/blob/main/Tasarımlar/adventurer_stand.png'>
 
 ### Enemis
-<img src='https://github.com/osmantunahanincirkus/2D_platform_game/blob/master/Tasar%C4%B1mlar/zombie_walk1.png'>
+<img src='https://github.com/osmantunahanincirkus/2D_platform_game/blob/main/Tasarımlar/zombie_walk1.png'>
 
 ### Platforms and other design
-<img src='https://github.com/osmantunahanincirkus/2D_platform_game/blob/master/Tasar%C4%B1mlar/spritesheet_jumper.png' width="350" height="300">
+<img src='https://github.com/osmantunahanincirkus/2D_platform_game/blob/main/Tasarımlar/spritesheet_jumper.png' width="350" height="300">
 
 ## Project Contents
 This project includes the following key components:
@@ -47,6 +47,12 @@ This project includes the following key components:
 .platform.py: Manages the design and movement of the ground and platforms.
 
 .assets/: A folder containing image, sound, and other files used in the game.
+
+## Contribution
+
+Thank you for your contributions.
+
+- [@IsmailCanMutlu](https://github.com/IsmailCanMutlu)
 
 ## License
 This project is licensed under the MIT License. For more information, please refer to the [MIT License](LICENSE).
