@@ -1,4 +1,4 @@
-# 2d-platform-game
+# 2D_platform_game
 2D platform game created using Python's Pygame library
 
 ## Project Description
